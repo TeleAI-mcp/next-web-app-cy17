@@ -1,2 +1,3 @@
-# next-web-app-cy17
-A web application for modern development workflows
+# Next Web App Cy17
+
+A web application for modern development workflows.
